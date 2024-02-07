@@ -1,6 +1,8 @@
 # Portfolio
-Este es mi portfolio de Data Science
+Este es mi portfolio de Data Science.
+
 En él se incluyen trabajos de:
+
 Análisis exploratorio de datos (EDA)
 Manipulación de bases de datos en MySQL
 Modelos de Machine Learning aplicados
