@@ -11,7 +11,7 @@ En él se incluyen trabajos de:
     
 Aquí puedes visualizar alguno de mis dashboards:
     Looker Studio 1: https://lookerstudio.google.com/reporting/ad6081a8-e2fb-4a68-bbc3-15f1a29d11ad
-    Looker Studio 2: 
+     
 
 Gracias por visitar mi trabajo
 sibylgonzalez@gmail.com
