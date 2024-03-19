@@ -1,4 +1,4 @@
-# Portfolio Dashboards
+# Portfolio #Dashboards
 Este es mi portfolio de Data Science.
 
 En él se incluyen trabajos de:
@@ -9,7 +9,7 @@ En él se incluyen trabajos de:
     Mis proyectos elaborados en base a datos reales
     Mis dashboards
     
-Aquí puedes visualizar alguno de mis #dashboards:
+Aquí puedes visualizar alguno de mis dashboards:
     Looker Studio 1: https://lookerstudio.google.com/reporting/ad6081a8-e2fb-4a68-bbc3-15f1a29d11ad
     Looker Studio 2: 
 
