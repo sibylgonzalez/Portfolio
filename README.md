@@ -10,7 +10,7 @@ En él se incluyen trabajos de:
     Mis dashboards
     
 Aquí puedes visualizar alguno de mis dashboards:
-    Looker Studio 1: https://lookerstudio.google.com/reporting/ad6081a8-e2fb-4a68-bbc3-15f1a29d11ad
+    Looker Studio 1: https://lookerstudio.google.com/reporting/0627ecd1-2313-4e5e-8bda-b2c03bee9caa
      
 
 Gracias por visitar mi trabajo
@@ -30,7 +30,7 @@ This portfolio showcases my work in the following areas:
 
 Explore some of my dashboards:
 
-    Looker Studio:https://lookerstudio.google.com/reporting/ad6081a8-e2fb-4a68-bbc3-15f1a29d11ad
+    Looker Studio:https://lookerstudio.google.com/reporting/0627ecd1-2313-4e5e-8bda-b2c03bee9caa
     
 Thank you for visiting my work.
 sibylgonzalez@gmail.com
